@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="ExtentDemo.ExtentSingle_Test">
+        <methods>
+          <include name="openbrowser"/>
+          <include name="closebrowser"/>
+          <include name="url"/>
+          <include name="dbconnectionclosd"/>
+          <include name="getcookies"/>
+          <include name="dlcookies"/>
+          <include name="businesslogic_1"/>
+          <include name="maximize"/>
+          <include name="takescreenshot"/>
+        </methods>
+      </class> <!-- ExtentDemo.ExtentSingle_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
