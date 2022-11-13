@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-13T11:02:19 IST" name="Default suite" finished-at="2022-11-13T11:03:14 IST" duration-ms="55636">
+  <suite started-at="2022-11-13T12:36:35 IST" name="Suite" finished-at="2022-11-13T12:37:45 IST" duration-ms="70069">
     <groups>
     </groups>
-    <test started-at="2022-11-13T11:02:19 IST" name="Default test" finished-at="2022-11-13T11:03:14 IST" duration-ms="55636">
+    <test started-at="2022-11-13T12:36:35 IST" name="Test" finished-at="2022-11-13T12:37:45 IST" duration-ms="70069">
       <class name="ExtentDemo.ExtentSingle_Test">
-        <test-method is-config="true" signature="openbrowser()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:02:17 IST" name="openbrowser" finished-at="2022-11-13T11:02:19 IST" duration-ms="1224" status="PASS">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:36:34 IST" name="openbrowser" finished-at="2022-11-13T12:36:35 IST" duration-ms="1335" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method is-config="true" signature="url()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:02:19 IST" name="url" finished-at="2022-11-13T11:02:29 IST" duration-ms="10817" status="PASS">
+        <test-method is-config="true" signature="url()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:36:35 IST" name="url" finished-at="2022-11-13T12:36:59 IST" duration-ms="24291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- url -->
-        <test-method is-config="true" signature="maximize()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:02:29 IST" name="maximize" finished-at="2022-11-13T11:02:30 IST" duration-ms="123" status="PASS">
+        <test-method is-config="true" signature="maximize()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:36:59 IST" name="maximize" finished-at="2022-11-13T12:36:59 IST" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- maximize -->
-        <test-method is-config="true" signature="getcookies()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:02:30 IST" name="getcookies" finished-at="2022-11-13T11:02:30 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="getcookies()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:36:59 IST" name="getcookies" finished-at="2022-11-13T12:36:59 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getcookies -->
-        <test-method signature="businesslogic_1()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:02:30 IST" name="businesslogic_1" finished-at="2022-11-13T11:03:14 IST" duration-ms="44420" status="PASS">
+        <test-method signature="businesslogic_1()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:36:59 IST" name="businesslogic_1" finished-at="2022-11-13T12:37:45 IST" duration-ms="45403" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- businesslogic_1 -->
-        <test-method is-config="true" signature="takescreenshot()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:03:14 IST" name="takescreenshot" finished-at="2022-11-13T11:03:14 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="takescreenshot()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:37:45 IST" name="takescreenshot" finished-at="2022-11-13T12:37:45 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- takescreenshot -->
-        <test-method is-config="true" signature="dlcookies()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:03:14 IST" name="dlcookies" finished-at="2022-11-13T11:03:14 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- dlcookies -->
-        <test-method is-config="true" signature="dbconnectionclosd()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:03:14 IST" name="dbconnectionclosd" finished-at="2022-11-13T11:03:14 IST" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="dbconnectionclosd()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:37:45 IST" name="dbconnectionclosd" finished-at="2022-11-13T12:37:45 IST" duration-ms="234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dbconnectionclosd -->
-        <test-method is-config="true" signature="closebrowser()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T11:03:14 IST" name="closebrowser" finished-at="2022-11-13T11:03:14 IST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="dlcookies()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:37:45 IST" name="dlcookies" finished-at="2022-11-13T12:37:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dlcookies -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:ExtentDemo.ExtentSingle_Test@359f7cdf]" started-at="2022-11-13T12:37:45 IST" name="closebrowser" finished-at="2022-11-13T12:38:01 IST" duration-ms="16149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebrowser -->
       </class> <!-- ExtentDemo.ExtentSingle_Test -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

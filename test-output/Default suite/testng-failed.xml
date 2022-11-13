@@ -3,19 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="ExtentDemo.ExtentSingle_Test">
+      <class name="ExtentDemo.Execute_BaseClass">
         <methods>
-          <include name="openbrowser"/>
-          <include name="closebrowser"/>
-          <include name="url"/>
-          <include name="dbconnectionclosd"/>
-          <include name="getcookies"/>
-          <include name="dlcookies"/>
-          <include name="businesslogic_1"/>
-          <include name="maximize"/>
-          <include name="takescreenshot"/>
+          <include name="setup1"/>
+          <include name="setExtent"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="endReport"/>
         </methods>
-      </class> <!-- ExtentDemo.ExtentSingle_Test -->
+      </class> <!-- ExtentDemo.Execute_BaseClass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
